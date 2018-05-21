@@ -5,12 +5,12 @@ class Intro extends Component {
         return (
             <section id="intro">
                 <div className="intro-content">
-                    <h2>Hà Nội - Nội Bài <span><br />Chỉ từ: </span>150.000 VNĐ!</h2>
+                    <h2>Hà Nội - Nội Bài <span><br />Chỉ từ: </span>170.000 VNĐ!</h2>
                     <hr/>
-                    <h2>Nội Bài - Hà Nội<span><br />Chỉ từ: </span>200.000 VNĐ!</h2>
+                    <h2>Nội Bài - Hà Nội<span><br />Chỉ từ: </span>270.000 VNĐ!</h2>
                     <div>
-                        <a href="#about" className="btn-get-started scrollto">Hotline: 0165.5646549</a>
-                        <a href="#portfolio" className="btn-projects scrollto">Phục vụ 24/7</a>
+                        <a href="tel:01252301020" className="btn-get-started scrollto">Hotline: 01252.301.020</a>
+                        <a href="tel:0912599550" className="btn-projects scrollto">Phục vụ 24/7</a>
                     </div>
                 </div>
                 <div id="intro-carousel" className="owl-carousel">

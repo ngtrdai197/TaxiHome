@@ -13,6 +13,22 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+#about .row p{
+  padding: 10px;
+  margin: 0;
+}
+
+.tele-fixed{
+  position: fixed;
+  bottom: 100px;
+  left: 10px;
+  width: 60px;
+  height: auto;
+  border-radius: 50% !important;
+}
+.tele-fixed i{
+  font-size: 45px;
+}
 a {
   color: #50d8af;
   transition: 0.5s;

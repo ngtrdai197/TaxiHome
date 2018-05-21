@@ -6,8 +6,8 @@ class TopBar extends Component {
             <section id="topbar" className="d-none d-lg-block">
                 <div className="container clearfix">
                     <div className="contact-info float-left">
-                        <i className="fa fa-envelope-o" /> <a href="mailto:contact@example.com">ngtrdai290197@gmail.com</a>
-                        <i className="fa fa-phone" /> 0165.564.6549
+                        <i className="fa fa-envelope-o" /> <a href="mailto:taxinoibaihome@gmail.com">taxinoibaihome@gmail.com</a>
+                        <i className="fa fa-phone" /> <a href="tel:01252301020">01252.301.020</a> 
                      </div>
                     <div className="social-links float-right">
                         <a href="#h01" className="twitter"><i className="fa fa-twitter" /></a>
